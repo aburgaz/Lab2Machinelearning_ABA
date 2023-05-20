@@ -3,7 +3,7 @@ In this part we will preprocess the Data set in order to prepare the Features to
 
 To do so first we need to have a clear understanding of the data set:
 
-#Source:
+# Source:
 
 Creators original owner and donors: Andrea Martiniano (1), Ricardo Pinto Ferreira (2), and Renato Jose Sassi (3).
 
@@ -19,7 +19,7 @@ Address: Rua Vergueiro, 235/249 Liberdade, Sao Paulo, SP, Brazil. Zip code: 0150
 Website: http://www.uninove.br/curso/informatica-e-gestao-do-conhecimento/
 
 
-Data Set Information:
+# Data Set Information:
 
 The data set allows for several new combinations of attributes and attribute exclusions, or the modification of the attribute type (categorical, integer, or real) depending on the purpose of the research.The data set (Absenteeism at work - Part I) was used in academic research at the Universidade Nove de Julho - Postgraduate Program in Informatics and Knowledge Management.
 
